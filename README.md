@@ -1,6 +1,4 @@
 # physio-exercise-classifier
-
-````markdown
 # 🏃‍♂️ Physio Exercise Classifier: An End-to-End MLOps Project
 
 This project demonstrates a complete, end-to-end **MLOps (Machine Learning Operations) pipeline**. It includes a complex **XGBoost model** trained on time-series sensor data from two datasets (UCI and PHYTMO), containerized with Docker, and deployed as a live web app on **Microsoft Azure** using **Terraform**.
@@ -171,9 +169,3 @@ physio-exercise-classifier/
 ## 📖 References
 
 * [UCI Machine Learning Repository – Physiotherapy Dataset](https://archive.ics.uci.edu/ml/datasets/physiotherapy+exercises)
-
----
-
-
-Do you want me to do that?
-```
