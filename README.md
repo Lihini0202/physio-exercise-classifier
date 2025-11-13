@@ -86,7 +86,7 @@ The `/terraform` folder builds all required Azure infrastructure:
    az login
    terraform init
 ````
-
+````
 2. **Build the "Cloud Factory"** (initial apply may fail):
 
    ```bash
@@ -169,3 +169,4 @@ physio-exercise-classifier/
 ## 📖 References
 
 * [UCI Machine Learning Repository – Physiotherapy Dataset](https://archive.ics.uci.edu/ml/datasets/physiotherapy+exercises)
+````
