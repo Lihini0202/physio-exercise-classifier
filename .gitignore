@@ -1,0 +1,11 @@
+# Terraform state files (These have PASSWORDS!)
+*.tfstate
+*.tfstate.*
+
+# Terraform plugin files (These are HUGE!)
+.terraform/
+.terraform.lock.hcl
+
+# Other junk
+*.DS_Store
+__pycache__/
