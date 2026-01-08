@@ -5,7 +5,6 @@ This project demonstrates a complete, end-to-end **MLOps (Machine Learning Opera
 
 The live application is an interactive **Streamlit dashboard** that allows users to upload their own 200x9 sensor data file. The app then runs the full **feature-extraction pipeline**, loads the trained model, and predicts which of the 43 physiotherapy exercises the user is performing.
 
-**Live Demo:** [http://70.153.57.185:8501]
 
 ---
 
@@ -29,7 +28,7 @@ This repository contains **two complete pipelines**:
 
 ### 1. The ML Training Pipeline (The "Brain")
 
-**File:** `hybrid_physico (2).ipynb`  
+**File:** `hybrid_physico.ipynb`  
 
 **Purpose:** This Jupyter Notebook is where the model was trained. It performs:
 
