@@ -2,7 +2,7 @@
 FROM python:3.9-slim
 
 # 1. XGBOOST: Install 'libgomp1'
-# XGBoost will crash on Linux without this library!
+
 RUN apt-get update && apt-get install -y \
     libgl1 \
     libglib2.0-0 \
